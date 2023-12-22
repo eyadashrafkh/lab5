@@ -1,0 +1,661 @@
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=2
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=3
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=4
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=5
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=6
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=9
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=10
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=11
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=12
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=13
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=14
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=15
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=16
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=17
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=18
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=19
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=20
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=21
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=22
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=25
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 25
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=2
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=3
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=4
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=5
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=6
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=9
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=10
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=11
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=12
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=13
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=14
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=15
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=16
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=17
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=18
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=19
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=20
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=21
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=22
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=25
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=26
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=27
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=28
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 28
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=2
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=3
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=4
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=5
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=6
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=7
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=8
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=9
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=10
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=11
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=12
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=13
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=14
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=15
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=16
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=17
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=18
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=19
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=20
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=21
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=22
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 24
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=2
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=3
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=4
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=5
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=6
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=9
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=10
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=11
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=12
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=13
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=14
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=15
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=16
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=17
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=18
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=19
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=20
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=21
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=22
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=25
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=26
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=27
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=28
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 28
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=2
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=3
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=4
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=5
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=6
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=9
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=10
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=11
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=12
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=13
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=14
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=15
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=16
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=17
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=18
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=19
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=20
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=21
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=22
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=25
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=26
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 26
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=2
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=3
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=4
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=5
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=6
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=9
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=10
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=11
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=12
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=13
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=14
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=15
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=16
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=17
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=18
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=19
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=20
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=21
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=22
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=25
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=26
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=27
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 27
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=1
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=2
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=3
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=4
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=5
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=6
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=9
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=10
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=11
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=12
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=13
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=14
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=15
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=16
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=17
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=18
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=19
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=20
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=21
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=22
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=25
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=26
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=27
+Monitor thread: waiting to read counter
+Monitor thread: reading a count value of 27
+Monitor thread: writing to buffer at position 0
+Collector thread: reading from the buffer at position 0
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=1
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=2
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=3
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=4
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=5
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=6
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=7
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=8
+Counter thread 0: received a message
+Counter thread 0: waiting to write
+Counter thread 0: now adding to counter, counter value=9
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=10
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=11
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=12
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=13
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=14
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=15
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=16
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=17
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=18
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=19
+Counter thread 1: received a message
+Counter thread 1: waiting to write
+Counter thread 1: now adding to counter, counter value=20
+Counter thread 4: received a message
+Counter thread 4: waiting to write
+Counter thread 4: now adding to counter, counter value=21
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=22
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=23
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=24
+Counter thread 3: received a message
+Counter thread 3: waiting to write
+Counter thread 3: now adding to counter, counter value=25
+Counter thread 2: received a message
+Counter thread 2: waiting to write
+Counter thread 2: now adding to counter, counter value=2
